@@ -5,11 +5,9 @@ Home: https://github.com/r-lib/textshaping
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-textshaping-feedstock/blob/master/LICENSE.txt)
 
 Summary: Provides access to the text shaping functionality in the 'HarfBuzz' library and the bidirectional algorithm in the 'Fribidi' library. 'textshaping' is a low-level utility package mainly for graphic devices that expands upon the font tool-set provided by the 'systemfonts' package.
-
-
 
 Current build status
 ====================

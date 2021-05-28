@@ -8,7 +8,7 @@ package:
 
 source:
   url:
-    - {{ cran_mirror }}/src/contrib/textshaping_{{ version }}.tar.gz
+    ##- {{ cran_mirror }}/src/contrib/textshaping_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/textshaping/textshaping_{{ version }}.tar.gz
   sha256: 4c8de243d21d70d84056d347daf29ae8db1d74c2058d8cfe3f578940e02ac00c
 

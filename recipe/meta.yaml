@@ -45,6 +45,7 @@ requirements:
     - fribidi
     - r-cpp11 >=0.2.1
     - r-systemfonts >=1.0.0
+    - libglib  # [osx]
   run:
     - r-base
     - {{ native }}gcc-libs         # [win]

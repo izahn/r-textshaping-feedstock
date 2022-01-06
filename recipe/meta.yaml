@@ -43,6 +43,7 @@ requirements:
     - freetype
     - harfbuzz
     - fribidi
+    - glib  # [osx]
     - libglib  # [osx]
     - r-cpp11 >=0.2.1
     - r-systemfonts >=1.0.0

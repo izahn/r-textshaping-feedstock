@@ -76,6 +76,7 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
+    - izahn
 
 # Package: textshaping
 # Title: Bindings to the 'HarfBuzz' and 'Fribidi' Libraries for Text Shaping
